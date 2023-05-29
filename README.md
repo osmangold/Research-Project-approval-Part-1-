@@ -1,16 +1,16 @@
 Research & Project approval (Part 1)
 ====================================
 
--   By Michelle Lai
+-   By Osman Hussain
 -   Weight: 1
--   Project to be done in teams of 3 people
+-   Project to be done in teams of 1 people
 -   Ongoing project - started 
 
-    May 27, 2022
+    May 29, 2023
 
     , must end by 
 
-    Jun 3, 2022
+    Jun 3, 2023
 
      - you're done with 0% of tasks.
 -   **Manual QA review must be done** (request it when you are done with the project)
